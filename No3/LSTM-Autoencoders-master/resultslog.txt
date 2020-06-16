@@ -1,0 +1,32 @@
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Batch_num=8
+Hidden_num=25
+window_length=10
+training_used_#windows=10000
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Batch_num=8
+Hidden_num=25
+window_length=10
+training_used_#windows=10000
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Batch_num=8
+Hidden_num=25
+window_length=10
+training_used_#windows=10000
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Batch_num=8
+Hidden_num=25
+window_length=10
+training_used_#windows=10000

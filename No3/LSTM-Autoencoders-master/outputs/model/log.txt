@@ -1,0 +1,8 @@
+Info: Initialization set contains 94920 normal windows and 5080 abnormal windows.
+Subsets contain windows: sn:4745,vn1:2847,vn2:949,tn:951,va:254,ta:254
+Batch_num=8
+Hidden_num=25
+window_length=10
+training_used_#windows=10000
+Early stopping at epoch 5
+Model saved accompany with parameters and threshold in file: outputs/model/_8_25_10_para.ckpt--- Initialization time: 122.8658058643341 seconds ---
